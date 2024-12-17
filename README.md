@@ -1,5 +1,8 @@
 # Water Leak Detector
 
+## Note
+Currently working on implementing a WiFi module to the system so user can get alerts on the phone. 
+
 ## Abstract
 
 The **Water Leak Detector** is a real-time Arduino-based system designed to identify and alert users to water leaks, helping to prevent damage and costly repairs. This project employs two Arduinos: one monitors for water leaks, while the other manages alarms via LEDs, a buzzer, and an LCD display. The system provides immediate notification and allows users to deactivate the alarm by pressing a button. The Arduinos communicate using serial communication, ensuring accurate and responsive performance. Unlike traditional water measurement systems, this project emphasizes rapid detection and alerting.
