@@ -12,8 +12,7 @@ The **Water Leak Detector** is a real-time Arduino-based system designed to iden
 2. [Features](#features)
 3. [Hardware Requirements](#hardware-requirements)
 4. [System Design](#system-design)
-5. [How to Build](#how-to-build)
-6. [Code](#code)
+5. [Code](#code)
 
 ---
 
