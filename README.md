@@ -88,11 +88,7 @@ The code is divided into two sections:
 - **Detection Arduino Code**: Monitors water levels and communicates leak status.
 - **Alert Arduino Code**: Activates alerts and handles user interaction.
 
-The full code is available in the repository under the `code/` folder:
-- [Sensor Arduino Code](./code/sensor-arduino.ino)
-- [Alert Arduino Code](./code/alert-arduino.ino)
 
----
 
 
 ![image](https://github.com/user-attachments/assets/ecd920e6-7ed6-4b6c-85ab-da0450bfe73f)
