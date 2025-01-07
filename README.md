@@ -1,7 +1,7 @@
 # Water Leak Detector
 
 ## Note
-Currently working on implementing a WiFi module to the system so user can get alerts on the phone. 
+Currently working on implementing a WiFi module to the system so user can get alerts on the phone.
 
 ## Abstract
 
