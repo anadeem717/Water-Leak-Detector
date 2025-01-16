@@ -43,6 +43,8 @@ Key features include:
 
 ## Hardware Requirements
 
+The project required the use of 2 Arduinos to demonstrate the use of serial communication between them.
+
 To build the Water Leak Detector, the following components are required:
 
 - 2 Arduino boards
